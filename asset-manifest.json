@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Google_Login/static/css/main.aa74118d.css",
+    "main.js": "/React_Google_Login/static/js/main.98d9074a.js",
+    "index.html": "/React_Google_Login/index.html",
+    "main.aa74118d.css.map": "/React_Google_Login/static/css/main.aa74118d.css.map",
+    "main.98d9074a.js.map": "/React_Google_Login/static/js/main.98d9074a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa74118d.css",
+    "static/js/main.98d9074a.js"
+  ]
+}
